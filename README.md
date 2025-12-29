@@ -66,27 +66,27 @@ This project is designed for **academic practicals, viva, and learning RESTful w
 ## 📁 Project Structure
 
 contactmanagement
-│── src
-│ └── main
-│ ├── java
-│ │ └── com.example.contactmanagement
-│ │ ├── controller
-│ │ │ └── ContactController.java
-│ │ ├── service
-│ │ │ └── ContactService.java
-│ │ ├── repository
-│ │ │ └── ContactRepository.java
-│ │ ├── model
-│ │ │ └── Contact.java
-│ │ └── ContactmanagementApplication.java
-│ │
-│ └── resources
-│ └── static
-│ └── index.html
-│
-│── pom.xml
-│── .gitignore
-│── mvnw
+**│── src**
+**│ └── main**
+**│ ├── java**
+**│ │ └── com.example.contactmanagement**
+**│ │ ├── controller**
+**│ │ │ └── ContactController.java**
+**│ │ ├── service**
+**│ │ │ └── ContactService.java**
+**│ │ ├── repository**
+**│ │ │ └── ContactRepository.java**
+**│ │ ├── model**
+**│ │ │ └── Contact.java**
+**│ │ └── ContactmanagementApplication.java**
+**│ │**
+**│ └── resources**
+**│ └── static**
+**│ └── index.html**
+**│**
+**│── pom.xml**
+**│── .gitignore**
+**│── mvnw**
 ---
 ## 🌐 REST API Endpoints
 
